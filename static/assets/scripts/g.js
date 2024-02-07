@@ -7,6 +7,12 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all'],
     },
     {
+      name: 'BTD 6',
+      link: 'https://scratch.mit.edu/projects/67669560/embed',
+      image: '/assets/media/icons/btd6.png',
+      categories: ['all'],
+    },
+    {
       name: 'Amazon Luna',
       link: 'https://luna.amazon.com/',
       image: '/assets/media/icons/amazon-luna.png',
